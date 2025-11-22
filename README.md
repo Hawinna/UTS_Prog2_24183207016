@@ -13,6 +13,7 @@ Menyimpan data mahasiswa dengan atribut:
 - npm
 - nama
 - kelas
+
 Memiliki konstruktor default, konstruktor berparameter, setter/getter, dan method tampilkanData().
 
 ### MainClass
@@ -20,12 +21,13 @@ Menjalankan menu:
 - Tambah data
 - Tampilkan data
 - Keluar
+
 Data disimpan menggunakan ArrayList dan input memakai Scanner.
 
 ---
 
 ## Berikut hasil outputnya
-<img width="595" height="734" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/ae11c89e-beeb-4918-965a-a3541cf3e9ac" />
+<img width="400" height="183" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/14e0ec38-0006-4d7e-a53e-9adf07c12e0f" />
 
 <img width="595" height="734" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/6a576ec1-fb22-41cf-875f-67290ac28f71" />
 
