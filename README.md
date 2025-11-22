@@ -1,7 +1,7 @@
 # UTS_Prog2_24183207016
-- **Nama:** Hawinna Amry Lafaidza  
-- **NPM:** 24183207016  
-- **Prodi:** PTI/3A
+ **Nama:** Hawinna Amry Lafaidza  
+ **NPM:** 24183207016  
+ **Prodi:** PTI/3A
   
 ---
 
