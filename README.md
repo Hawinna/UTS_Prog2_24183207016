@@ -24,6 +24,9 @@ Menjalankan menu:
 
 Data disimpan menggunakan ArrayList dan input memakai Scanner.
 
+### Cara Menjalankan
+Jalankan file MainClass.java, kemudian pilih menu 1–3.
+
 ---
 
 ## Berikut hasil outputnya
